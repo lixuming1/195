@@ -1,2 +1,3 @@
 this is git
-this is my study 
+this is my study
+thank you 
